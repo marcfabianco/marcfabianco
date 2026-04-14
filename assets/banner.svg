@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Marcos Fabian Covarrubias">
+  <rect width="1200" height="200" fill="#F0F0EB"/>
+  <text x="60" y="95" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#333333" font-weight="600">Marcos Fabian Covarrubias</text>
+  <text x="62" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#BF4D43" font-weight="600">Policy Economist</text>
+  <text x="62" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#666663">Human capital &#183; Education &#183; Health &#183; Labor &#183; Climate</text>
+  <rect x="1050" y="40" width="14" height="120" fill="#BF4D43"/>
+  <rect x="1082" y="40" width="14" height="120" fill="#C9A84C"/>
+  <rect x="1114" y="40" width="14" height="120" fill="#6B8F71"/>
+  <rect x="60" y="168" width="1080" height="2" fill="#999999" opacity="0.4"/>
+</svg>
