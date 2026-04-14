@@ -4,7 +4,9 @@
 
 ### About
 
-I'm a policy economist and Ph.D. candidate at the University of Maryland. I build large-scale empirical studies that link climate and economic shocks to human-capital outcomes — births, child health, learning, and labor mobility — using administrative microdata across the U.S. and Mexico. I care about reproducibility, and I orchestrate LLM agents across my research pipelines.
+I'm a policy economist and Ph.D. candidate at the University of Maryland. I build large-scale empirical studies that link climate and economic shocks to human-capital outcomes — births, child health, learning, and labor mobility — using administrative microdata across the U.S. and Mexico. Before my Ph.D., I led a multi-country research program at the Association of Supervisors of Banks of the Americas in Mexico City, and was a research fellow at the Bank for International Settlements in Basel. I care about reproducibility, and I orchestrate LLM agents across my research pipelines.
+
+Full site: **[marcfabianco.github.io](https://marcfabianco.github.io)**
 
 <br clear="left" />
 
